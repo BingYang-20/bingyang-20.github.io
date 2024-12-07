@@ -17,42 +17,71 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a assistant researcher at Westlake University, Hangzhou, China (西湖大学). From 2022 to 2024, I was a Postdoctor with Westlake University, Hangzhou, China, supervised by Prof. Xiaofei Li (李晓飞). 
+I received the Ph.D. degree from the School of Electronics Engineering and Computer Science, Peking University, Beijing, China, in 2022, supervised by Prof. Hong Liu (刘宏). I received the B.Eng. degree in automation from the University Of Science and Technology Beijing, Beijing, China, in 2015. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
+My research interests include sound source localization and tracking, and multichannel audio representation learning.
+ 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11*: &nbsp;🎉🎉 one TASLP paper accepted 
+- *2022.09*: &nbsp;🎉🎉 one NeurIPS paper accepted
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Experience
+- *2024.02 - present*, Assistant researcher, Westlake University, Hangzhou, China.
+- *2022.02 - 2024.02*, Postdoctor, Westlake University, Hangzhou, China.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2022.01*, Ph.D. in Computer Applied Technology, [School of Electronics Engineering and Computer Science](http://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) (PKU), Beijing, China.
+- *2011.09 - 2015.06*,  .Eng. in Automation, [School of Automation](http://saee.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/) (USTB), China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📝 Selected Publications 
+- Journal -
+- **Bing Yang**, Xiaofei Li. [Self-supervised learning of spatial acoustic representation with cross-channel signal reconstruction and multi-channel Conformer](https://ieeexplore.ieee.org/document/10675425). **TASLP**, vol. 32, pp. 4211-4225, 2024. [code](https://github.com/Audio-WestlakeU/SAR-SSL)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **Bing Yang**, Changsheng Quang, Yabo Wang, et al. [RealMAN: A recorded and annotated microphone array dataset for dynamic speech enhancement and localization](https://arxiv.org/abs/2406.19959). 
+**NeurIPS**, 2024. [dataset](https://github.com/Audio-WestlakeU/RealMAN)
+
+- Yabo Wang#, **Bing Yang**# (equal contribution), Xiaofei Li. [IPDnet: A universal direct-path IPD estimation network for sound source localization](). **TASLP**, vol. 32, pp. 5051-5064, 2024. [code]()
+
+– Yidi Li, Hong Liu, **Bing Yang**. [STNet: Deep Audio-Visual Fusion Network for Robust Speaker Tracking](). IEEE Transactions on Multimedia (**TMM**), 2024.
+
+- **Bing Yang**, Hong Liu, Xiaofei Li. Learning deep direct-path relative transfer function for binaural sound source localization. IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), vol. 29, pp. 3491–3503, 2021. 
+
+– **Bing Yang**, Runwei Ding, Yutong Ban, Xiaofei Li, Hong Liu. Enhancing direct-path relative transfer function using  deep neural network for robust sound source localization. CAAI Transactions on Intelligence Technology, pp. 1–9, 2021. 
+
+– **Bing Yang**, Hong Liu, Cheng Pang, Xiaofei Li. Multiple sound source counting and localization based on TF-wise spatial spectrum clustering. IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), vol. 27, no. 8, pp. 1241–1255, 2019.
+
+- Conference -
+
+– **Bing Yang**, Changsheng Quan, Yabo Wang, et al. RealMAN: A Real-Recorded and Annotated Microphone Array Dataset for Dynamic Speech Enhancement and Localization. International Conference on Neural Information Processing Systems (**NeurIPS**), 2024. 
+
+– Yabo Wang#, **Bing Yang**# (equal contribution), Xiaofei Li. FN-SSL: Full-band and narrow-band fusion for sound source localization. Annual Conference of the International Speech Communication Association (**INTERSPEECH**), 2023, pp. 3779-3783. 
+
+– **Bing Yang**, Hong Liu, Xiaofei Li. SRP-DNN: Learning direct-path phase difference for multiple moving sound source localization. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022, pp. 721-725. 
+
+– **Bing Yang**, Xiaofei Li, Hong Liu. Supervised direct-path relative transfer function learning for binaural sound source localization. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021, pp. 825–829. 
+
+– **Bing Yang**, Hong Liu, Cheng Pang. Multiple sound source counting and localization based on spatial principal eigenvector. Annual Conference of the International Speech Communication Association (**INTERSPEECH**), 2017, pp. 1924–1928. 
+
+– Hong Liu, **Bing Yang**, Cheng Pang. Multiple sound source localization based on TDOA clustering and multi-path matching pursuit. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2017, pp. 3241–3245.
+
+# 🎖 Honors and Awards
+- Awards -
+
+- Merit Student, Learning Excellence Award, Excellent Scientific Research Award, 	Peking University, Sep. 2015 ~ Jan. 2022 
+
+- Outstanding Graduates, Merit Student, 	Beijing, Sep. 2011 ~ Jun. 2015  
+
+- President Medal, Merit Student, Outstanding Student Leaders, 	University of Science and Technology Beijing, Sep. 2011 ~ Jun. 2015  
+
+- Scholarship -
+
+- Founder Scholarship, 	Peking University, Sep. 2015 ~ Jan. 2022
+
+- National Scholarship, National Encouragement Scholarship,	Ministry of Education of P.R.China, Sep. 2011 ~ Jun. 2015   
+
+- ‘Guanzhi’ Scholarship, 	University of Science and Technology Beijing, Sep. 2011 ~ Jun. 2015   
+
+# 💬 Projects
+- *2022.02-2024.02*, 中国博士后科学基金面上项目
+
