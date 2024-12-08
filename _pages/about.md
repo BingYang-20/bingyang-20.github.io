@@ -35,7 +35,7 @@ My research interests include sound source localization and tracking, and multic
 - *2011.09 - 2015.06*,  .Eng. in Automation, [School of Automation](http://saee.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/) (USTB), China
 
 # 📝 Selected Publications 
-- Journal -
+**Journal**
 - **Bing Yang**, Xiaofei Li. [Self-supervised learning of spatial acoustic representation with cross-channel signal reconstruction and multi-channel Conformer](https://ieeexplore.ieee.org/document/10675425). **TASLP**, vol. 32, pp. 4211-4225, 2024. [code](https://github.com/Audio-WestlakeU/SAR-SSL)
 
 - **Bing Yang**, Changsheng Quang, Yabo Wang, et al. [RealMAN: A recorded and annotated microphone array dataset for dynamic speech enhancement and localization](https://arxiv.org/abs/2406.19959). 
@@ -51,7 +51,7 @@ My research interests include sound source localization and tracking, and multic
 
 – **Bing Yang**, Hong Liu, Cheng Pang, Xiaofei Li. Multiple sound source counting and localization based on TF-wise spatial spectrum clustering. IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), vol. 27, no. 8, pp. 1241–1255, 2019.
 
-- Conference -
+**Conference**
 
 – **Bing Yang**, Changsheng Quan, Yabo Wang, et al. RealMAN: A Real-Recorded and Annotated Microphone Array Dataset for Dynamic Speech Enhancement and Localization. International Conference on Neural Information Processing Systems (**NeurIPS**), 2024. 
 
@@ -83,5 +83,5 @@ My research interests include sound source localization and tracking, and multic
 - ‘Guanzhi’ Scholarship, 	University of Science and Technology Beijing, Sep. 2011 ~ Jun. 2015   
 
 # 💬 Projects
-- *2022.02-2024.02*, 中国博士后科学基金面上项目
+ 
 
