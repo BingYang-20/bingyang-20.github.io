@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Bing Yang"
 description              : "Assistant researcher at Westlake University"
-repository               : "BingYang-20/bingyang.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "BingYang-20/bingyang0.github.io"
+google_scholar_stats_use_cdn : true 
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
