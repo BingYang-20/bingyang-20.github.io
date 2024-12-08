@@ -66,7 +66,7 @@ My research interests include sound source localization and tracking, and multic
 - Hong Liu, **Bing Yang**, Cheng Pang. Multiple sound source localization based on TDOA clustering and multi-path matching pursuit. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2017, pp. 3241–3245.
 
 # 🎖 Honors and Awards
-**Awards** -**
+**Awards** 
 
 - Merit Student, Learning Excellence Award, Excellent Scientific Research Award, 	Peking University, Sep. 2015 ~ Jan. 2022 
 
