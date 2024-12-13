@@ -23,8 +23,8 @@ I received the Ph.D. degree from the School of Electronics Engineering and Compu
 My research interests include sound source localization and tracking, and multichannel audio representation learning.
  
 # 🔥 News
-- *2022.11*: &nbsp;🎉🎉 one TASLP paper accepted 
-- *2022.09*: &nbsp;🎉🎉 one NeurIPS paper accepted
+- *2024.11*: &nbsp;🎉🎉 one TASLP paper accepted 
+- *2024.09*: &nbsp;🎉🎉 one NeurIPS paper accepted
 
 # 💻 Experience
 - *2024.02 - present*, Assistant researcher, Westlake University, Hangzhou, China.
@@ -32,7 +32,7 @@ My research interests include sound source localization and tracking, and multic
 
 # 📖 Educations
 - *2015.09 - 2022.01*, Ph.D. in Computer Applied Technology, [School of Electronics Engineering and Computer Science](http://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) (PKU), Beijing, China.
-- *2011.09 - 2015.06*,  .Eng. in Automation, [School of Automation](http://saee.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/) (USTB), China
+- *2011.09 - 2015.06*, B.Eng. in Automation, [School of Automation](http://saee.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/) (USTB), China
 
 # 📝 Selected Publications 
 **Journal**
