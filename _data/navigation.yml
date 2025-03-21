@@ -13,7 +13,7 @@ main:
     url: "/#-educations"
 
   - title: "Publications"
-    url: "/#-slelected publications"
+    url: "/#-publications"
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
