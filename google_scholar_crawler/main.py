@@ -9,7 +9,9 @@ pg = ProxyGenerator()
 pg.FreeProxies()  # Use free rotating proxies
 scholarly.use_proxy(pg)
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+# author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+author: dict = scholarly.search_author_id('_rt11bkAAAAJ')
+
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
 author['updated'] = str(datetime.now())
