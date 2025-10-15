@@ -54,7 +54,6 @@ My research interests include sound source localization and tracking, spatial ac
 
 **Selected Conference**
 
-
 - Yujie Yang, **Bing Yang**, Xiaofei Li. [Mel-McNet: A Mel-scale framework for online multichannel speech enhancement](https://www.isca-archive.org/interspeech_2025/yang25k_interspeech.html). Annual Conference of the International Speech Communication Association (**INTERSPEECH**), 2025, pp. 1173-1177.
 
 - **Bing Yang**, Changsheng Quang, Yabo Wang, et al. [RealMAN: A recorded and annotated microphone array dataset for dynamic speech enhancement and localization](). International Conference on Neural Information Processing Systems (**NeurIPS**), 2024, pp. 105997-106019. [[arXiv](https://arxiv.org/abs/2406.19959), [dataset](https://github.com/Audio-WestlakeU/RealMAN), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/97504.png)]
