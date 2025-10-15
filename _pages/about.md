@@ -20,7 +20,7 @@ redirect_from:
 I am currently a assistant researcher at Westlake University, Hangzhou, China (西湖大学). From 2022 to 2024, I was a Postdoctor with Westlake University, Hangzhou, China, supervised by Prof. Xiaofei Li (李晓飞). 
 I received the Ph.D. degree from the School of Electronics Engineering and Computer Science, Peking University, Beijing, China, in 2022, supervised by Prof. Hong Liu (刘宏). I received the B.Eng. degree in automation from the University Of Science and Technology Beijing, Beijing, China, in 2015. 
 
-My research interests include sound source localization and tracking, spatial acoustic parameter estimation, multichannel audio representation learning, and microphone array signal processing. <a href='https://scholar.google.com/citations?user=_rt11bkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+My research interests include sound source localization and tracking, spatial acoustic parameter estimation, multichannel audio representation learning, and microphone array signal processing. <a href='https://scholar.google.com/citations?user=_rt11bkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
  
  
 # 🔥 News
@@ -53,6 +53,7 @@ My research interests include sound source localization and tracking, spatial ac
 - Hong Liu, Peipei Yuan, **Bing Yang**, Ge Yang, Yang Chen. HRTF-reserved time-frequency masking for robust binaural sound source localization. CAAI Transactions on Intelligence Technology, 2022, 7(1): 26-33.
 
 **Selected Conference**
+
 
 - Yujie Yang, **Bing Yang**, Xiaofei Li. [Mel-McNet: A Mel-scale framework for online multichannel speech enhancement](https://www.isca-archive.org/interspeech_2025/yang25k_interspeech.html). Annual Conference of the International Speech Communication Association (**INTERSPEECH**), 2025, pp. 1173-1177.
 
