@@ -17,47 +17,73 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a assistant researcher at Westlake University, Hangzhou, China (西湖大学). From 2022 to 2024, I was a Postdoctor with Westlake University, Hangzhou, China, supervised by Prof. Xiaofei Li (李晓飞). 
-I received the Ph.D. degree from the School of Electronics Engineering and Computer Science, Peking University, Beijing, China, in 2022, supervised by Prof. Hong Liu (刘宏). I received the B.Eng. degree in automation from the University Of Science and Technology Beijing, Beijing, China, in 2015. 
+I am currently an Associate Researcher at Tianjin University, Tianjin, China. 
+Previously, I worked as an Assistant Researcher at Westlake University, Hangzhou, China.
+From 2022 to 2024, I was a Postdoctor at Westlake University, Hangzhou, China, supervised by Prof. Xiaofei Li. 
+I received the Ph.D. degree from the School of Electronics Engineering and Computer Science, Peking University, Beijing, China, in 2022, under the supervision of Prof. Hong Liu. 
+<!-- I received the B.Eng. degree in automation from the University Of Science and Technology Beijing, Beijing, China, in 2015.  -->
 
-My research interests include sound source localization and tracking, spatial acoustic parameter estimation, multichannel audio representation learning, and microphone array signal processing. <a href='https://scholar.google.com/citations?user=_rt11bkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
- 
+My research interests include 
+- Auditory perception and understanding
+- Sound source localization and tracking
+- Speech enhancement and separation
+- Microphone array signal processing  
+- Robot audition
+- Etc
+
+📢📢📢 Recruiting graduate students: Please feel free to contact me at bingyang@tju.edu.cn with your CV if you are interested in related topics. 
  
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 one INTERSPEECH paper accepted 
-- *2024.11*: &nbsp;🎉🎉 one TASLP paper accepted 
-- *2024.09*: &nbsp;🎉🎉 one NeurIPS paper accepted
+- *2026.09*: Joined Tianjin Key Laboratory of Cognitive Computing and Application, Tianjin University
+- *2026.09*: 🎉Three papers were accepted by IEEE SLT！ 
+- *2026.08*: 🎉One paper was accepted by IEEE SPL! 
+- *2025.05*: 🎉One paper was accepted by INTERSPEECH! 
+- *2024.11*: 🎉One paper was accepted by IEEE Trans. on ASLP! 
+- *2024.09*: 🎉One paper was accepted by NeurIPS! 
 
 # 💻 Experience
-- *2024.02 - present*, Assistant researcher, Westlake University, Hangzhou, China.
-- *2022.02 - 2024.02*, Postdoctor, Westlake University, Hangzhou, China.
+- *2026.09 - present*, Associate researcher, [School of Artificial Intelligence](https://sai.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/), Tianjin, China.
+- *2024.02 - 2026.09*, Assistant researcher, [School of Engineering](https://engineering.westlake.edu.cn/), [Westlake University](https://www.westlake.edu.cn/), Hangzhou, China.
+- *2022.02 - 2024.02*, Postdoctor, [School of Engineering](https://engineering.westlake.edu.cn/), [Westlake University](https://www.westlake.edu.cn/), Hangzhou, China.
 
 # 📖 Educations
 - *2015.09 - 2022.01*, Ph.D. in Computer Applied Technology, [School of Electronics Engineering and Computer Science](http://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) (PKU), Beijing, China.
-- *2011.09 - 2015.06*, B.Eng. in Automation, [School of Automation](http://saee.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/) (USTB), China
+- *2011.09 - 2015.06*, B.Eng. in Automation, [School of Automation](http://saee.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/) (USTB), Beijing, China.
 
 # 📝 Publications 
-**Selected Journal**
+
+<!-- <a href='https://scholar.google.com/citations?user=_rt11bkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  -->
+<a href="https://scholar.google.com/citations?user=_rt11bkAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3D_rt11bkAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a> 
+
+**Selected Journals**
 - **Bing Yang**, Xiaofei Li. [Self-supervised learning of spatial acoustic representation with cross-channel signal reconstruction and multi-channel Conformer](https://ieeexplore.ieee.org/document/10675425). IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), vol. 32, pp. 4211-4225, 2024. [[arXiv](https://arxiv.org/abs/2312.00476), [code](https://github.com/Audio-WestlakeU/SAR-SSL)]
 
 - Yabo Wang#, **Bing Yang**# (equal contribution), Xiaofei Li. [IPDnet: A universal direct-path IPD estimation network for sound source localization](https://ieeexplore.ieee.org/document/10771699). IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), vol. 32, pp. 5051-5064, 2024. [[arXiv](https://arxiv.org/abs/2405.07021), [code](https://github.com/Audio-WestlakeU/FN-SSL)]
 
 - Yidi Li, Hong Liu, **Bing Yang**. [STNet: Deep audio-visual fusion network for robust speaker tracking](https://ieeexplore.ieee.org/abstract/document/10814658). IEEE Transactions on Multimedia (**TMM**), vol.27, pp.1835-1847, 2024. [[arXiv](https://arxiv.org/abs/2410.05964)]
 
-- **Bing Yang**, Hong Liu, Xiaofei Li. [Learning deep direct-path relative transfer function for binaural sound source localization](https://ieeexplore.ieee.org/document/9582746). IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), vol. 29, pp. 3491–3503, 2021. [[arXiv](https://arxiv.org/abs/2202.07841), [code](https://github.com/BingYang-20/DP-RTF-Learning)]
-
 - **Bing Yang**, Runwei Ding, Yutong Ban, Xiaofei Li, Hong Liu. [Enhancing direct-path relative transfer function using  deep neural network for robust sound source localization](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12024). CAAI Transactions on Intelligence Technology, vol. 7, no. 3, pp. 446-454, 2022.
+
+- **Bing Yang**, Hong Liu, Xiaofei Li. [Learning deep direct-path relative transfer function for binaural sound source localization](https://ieeexplore.ieee.org/document/9582746). IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), vol. 29, pp. 3491–3503, 2021. [[arXiv](https://arxiv.org/abs/2202.07841), [code](https://github.com/BingYang-20/DP-RTF-Learning)]
 
 - **Bing Yang**, Hong Liu, Cheng Pang, Xiaofei Li. [Multiple sound source counting and localization based on TF-wise spatial spectrum clustering](https://ieeexplore.ieee.org/document/8712393). IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), vol. 27, no. 8, pp. 1241–1255, 2019. [[code](https://github.com/BingYang-20/TF-Wise-Spatial-Spectrum-Clustering)]
 
 - Hong Liu, Peipei Yuan, **Bing Yang**, Ge Yang, Yang Chen. HRTF-reserved time-frequency masking for robust binaural sound source localization. CAAI Transactions on Intelligence Technology, 2022, 7(1): 26-33.
 
-**Selected Conference**
+**Selected Conferences**
+- **Bing Yang**, Di Liang, Xiaofei Li. Identity-assisted association of unordered DOA estimates for neural speech source tracking. IEEE Spoken Language Technology Workshop (**SLT**), 2026. [[arXiv](https://arxiv.org/abs/2609.33373)]
 
+- Pengyu Wang, **Bing Yang**, Xiaofei Li. Variational Bayesian inference with multi-aspect neural guidance for speech dereverberation. IEEE Spoken Language Technology Workshop (**SLT**), 2026.
+
+- Di Liang, **Bing Yang**, Xiaofei Li. Adap-LS-EEND: Adaptive-latency streaming end-to-end neural Diarization. IEEE Spoken Language Technology Workshop (**SLT**), 2026.
+
+- Yabo Wang#, **Bing Yang**# (equal contribution), Xiaofei Li. [IPDnet2A: An efficient direct-path IPD estimation network for arbitrary array geometries](https://ieeexplore.ieee.org/abstract/document/11683667). IEEE Signal Processing Letters (**SPL**), 2026. 
+
+<!-- - Yabo Wang#, **Bing Yang**# (equal contribution), Xiaofei Li. [IPDnet2: An efficient and improved inter-channel phase difference estimation network for sound source localization](https://arxiv.org/abs/2509.21900). 2026.  -->
 
 - Yujie Yang, **Bing Yang**, Xiaofei Li. [Mel-McNet: A Mel-scale framework for online multichannel speech enhancement](https://www.isca-archive.org/interspeech_2025/yang25k_interspeech.html). Annual Conference of the International Speech Communication Association (**INTERSPEECH**), 2025, pp. 1173-1177.
 
-- **Bing Yang**, Changsheng Quang, Yabo Wang, et al. [RealMAN: A recorded and annotated microphone array dataset for dynamic speech enhancement and localization](). International Conference on Neural Information Processing Systems (**NeurIPS**), 2024, pp. 105997-106019. [[arXiv](https://arxiv.org/abs/2406.19959), [dataset](https://github.com/Audio-WestlakeU/RealMAN), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/97504.png)]
+- **Bing Yang**, Changsheng Quang, Yabo Wang, et al. [RealMAN: A recorded and annotated microphone array dataset for dynamic speech enhancement and localization](https://papers.nips.cc/paper_files/paper/2024/hash/bf8f6f5b017dc60d0c4e28a7a9a4ee7b-Abstract-Datasets_and_Benchmarks_Track.html). International Conference on Neural Information Processing Systems (**NeurIPS**), 2024, pp. 105997-106019. [[arXiv](https://arxiv.org/abs/2406.19959), [dataset](https://github.com/Audio-WestlakeU/RealMAN), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/97504.png)]
 
 - Yabo Wang#, **Bing Yang**# (equal contribution), Xiaofei Li. [FN-SSL: Full-band and narrow-band fusion for sound source localization](https://www.isca-archive.org/interspeech_2023/wang23j_interspeech.html). Annual Conference of the International Speech Communication Association (**INTERSPEECH**), 2023, pp. 3779-3783. [[arXiv](https://arxiv.org/pdf/2305.19610), [code](https://github.com/Audio-WestlakeU/FN-SSL)]
 
@@ -77,23 +103,25 @@ My research interests include sound source localization and tracking, spatial ac
 
 - Hong Liu, Yongheng Sun, Yidi Li, **Bing Yang**. 3D audio-visual speaker tracking with a novel particle filter. International Conference on Pattern Recognition (**ICPR**), 2021, pp. 7343-7348. 
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 **Awards** 
-
 - Merit Student, Learning Excellence Award, Excellent Scientific Research Award, 	Peking University, Sep. 2015 ~ Jan. 2022 
-
 - Outstanding Graduates, Merit Student, 	Beijing, Sep. 2011 ~ Jun. 2015  
-
 - President Medal, Merit Student, Outstanding Student Leaders, 	University of Science and Technology Beijing, Sep. 2011 ~ Jun. 2015  
 
 **Scholarship**
-
 - Founder Scholarship, 	Peking University, Sep. 2015 ~ Jan. 2022
-
 - National Scholarship, National Encouragement Scholarship,	Ministry of Education of P.R.China, Sep. 2011 ~ Jun. 2015   
-
 - ‘Guanzhi’ Scholarship, 	University of Science and Technology Beijing, Sep. 2011 ~ Jun. 2015   
+-->
 
-# 💬 Projects
- 
+# 📜 Projects 
+- General Program, China Postdoctoral Science Foundation
+- Young Scientists Fund, National Natural Science Foundation of China
 
+# 👨‍🎓 Students
+**Co-supervised or collaborating closely**
+- [Yabo Wang](https://github.com/wangyabo123), Sound source Localization, Ph.D. student of Zhejiang University & Westlake University, Intern at ByteDance (字节跳动Seed)
+- [Pengyu Wang](https://pengyvwang.github.io/), Speech enhancement, Ph.D. graduate of Zhejiang University (2026), Tencent (腾讯青云计划)
+- [Di Liang](https://scholar.google.com/citations?user=XVwCO_kAAAAJ), Speaker diarization, Ph.D. student of Zhejiang University & Westlake University, Intern at vivo
+- [Yujie Yang](https://scholar.google.com/citations?user=VP-10UEAAAAJ), Speech enhancement, Ph.D. student of Zhejiang University & Westlake University, Intern at Ant (蚂蚁星)

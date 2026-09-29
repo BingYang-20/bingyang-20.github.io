@@ -15,8 +15,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
     
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
     
   - title: "Projects"
     url: "/#-projects"
+
+  - title: "Students"
+    url: "/#-students"
