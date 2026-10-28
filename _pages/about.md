@@ -24,13 +24,12 @@ I received the Ph.D. degree from Peking University, Beijing, China, in 2022, und
 <!-- I received the B.Eng. degree in automation from the University Of Science and Technology Beijing, Beijing, China, in 2015.  -->
 
 My research focuses on acoustic, audio, and speech signal processing, including but not limited to
-- Auditory perception and understanding | 听觉感知与理解
-- Sound source localization and tracking | 声源定位和跟踪
-- Speech enhancement and separation | 语音增强和分离
-- Robot audition | 机器人听觉
+- Auditory perception and understanding 听觉感知与理解
+- Sound source localization and tracking 声源定位和跟踪
+- Speech enhancement and separation 语音增强和分离
+- Robot audition 机器人听觉
 
 📢📢📢 长期招收研究生！如果你对以上方向感兴趣，请联系bingyang@tju.edu.cn，并附上个人简历。
-
  
 # 🔥 News
 - *2026.09*: Joined Tianjin Key Laboratory of Cognitive Computing and Application, Tianjin University
