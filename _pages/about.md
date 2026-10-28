@@ -19,19 +19,18 @@ redirect_from:
 
 I am currently an Associate Researcher at Tianjin University, Tianjin, China. 
 Previously, I worked as an Assistant Researcher at Westlake University, Hangzhou, China.
-From 2022 to 2024, I was a Postdoctor at Westlake University, Hangzhou, China, supervised by Prof. Xiaofei Li. 
-I received the Ph.D. degree from the School of Electronics Engineering and Computer Science, Peking University, Beijing, China, in 2022, under the supervision of Prof. Hong Liu. 
+From 2022 to 2024, I was a Postdoctor at Westlake University, Hangzhou, China, working with Prof. Xiaofei Li. 
+I received the Ph.D. degree from Peking University, Beijing, China, in 2022, under the supervision of Prof. Hong Liu. 
 <!-- I received the B.Eng. degree in automation from the University Of Science and Technology Beijing, Beijing, China, in 2015.  -->
 
-My research interests include 
-- Auditory perception and understanding
-- Sound source localization and tracking
-- Speech enhancement and separation
-- Microphone array signal processing  
-- Robot audition
-- Etc
+My research focuses on acoustic, audio, and speech signal processing, including but not limited to
+- Auditory perception and understanding | 听觉感知与理解
+- Sound source localization and tracking | 声源定位和跟踪
+- Speech enhancement and separation | 语音增强和分离
+- Robot audition | 机器人听觉
 
-📢📢📢 Recruiting graduate students: Please feel free to contact me at bingyang@tju.edu.cn with your CV if you are interested in related topics. 
+📢📢📢 长期招收研究生！如果你对以上方向感兴趣，请联系bingyang@tju.edu.cn，并附上个人简历。
+
  
 # 🔥 News
 - *2026.09*: Joined Tianjin Key Laboratory of Cognitive Computing and Application, Tianjin University
@@ -56,6 +55,9 @@ My research interests include
 <a href="https://scholar.google.com/citations?user=_rt11bkAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3D_rt11bkAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a> 
 
 **Selected Journals**
+
+- Yabo Wang#, **Bing Yang**# (equal contribution), Xiaofei Li. [IPDnet2A: An efficient direct-path IPD estimation network for arbitrary array geometries](https://ieeexplore.ieee.org/abstract/document/11683667). IEEE Signal Processing Letters (**SPL**), vol. 33, pp. 3781-3785, 2026. 
+
 - **Bing Yang**, Xiaofei Li. [Self-supervised learning of spatial acoustic representation with cross-channel signal reconstruction and multi-channel Conformer](https://ieeexplore.ieee.org/document/10675425). IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), vol. 32, pp. 4211-4225, 2024. [[arXiv](https://arxiv.org/abs/2312.00476), [code](https://github.com/Audio-WestlakeU/SAR-SSL)]
 
 - Yabo Wang#, **Bing Yang**# (equal contribution), Xiaofei Li. [IPDnet: A universal direct-path IPD estimation network for sound source localization](https://ieeexplore.ieee.org/document/10771699). IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), vol. 32, pp. 5051-5064, 2024. [[arXiv](https://arxiv.org/abs/2405.07021), [code](https://github.com/Audio-WestlakeU/FN-SSL)]
@@ -76,8 +78,6 @@ My research interests include
 - Pengyu Wang, **Bing Yang**, Xiaofei Li. Variational Bayesian inference with multi-aspect neural guidance for speech dereverberation. IEEE Spoken Language Technology Workshop (**SLT**), 2026.
 
 - Di Liang, **Bing Yang**, Xiaofei Li. Adap-LS-EEND: Adaptive-latency streaming end-to-end neural Diarization. IEEE Spoken Language Technology Workshop (**SLT**), 2026.
-
-- Yabo Wang#, **Bing Yang**# (equal contribution), Xiaofei Li. [IPDnet2A: An efficient direct-path IPD estimation network for arbitrary array geometries](https://ieeexplore.ieee.org/abstract/document/11683667). IEEE Signal Processing Letters (**SPL**), 2026. 
 
 <!-- - Yabo Wang#, **Bing Yang**# (equal contribution), Xiaofei Li. [IPDnet2: An efficient and improved inter-channel phase difference estimation network for sound source localization](https://arxiv.org/abs/2509.21900). 2026.  -->
 
@@ -122,6 +122,6 @@ My research interests include
 # 👨‍🎓 Students
 **Co-supervised or collaborating closely**
 - [Yabo Wang](https://github.com/wangyabo123), Sound source Localization, Ph.D. student of Zhejiang University & Westlake University, Intern at ByteDance (字节跳动Seed)
-- [Pengyu Wang](https://pengyvwang.github.io/), Speech enhancement, Ph.D. graduate of Zhejiang University (2026), Tencent (腾讯青云计划)
+- [Pengyu Wang](https://pengyvwang.github.io/), Speech enhancement, Ph.D. graduate of Zhejiang University & Westlake University (2026), Tencent (腾讯青云计划)
 - [Di Liang](https://scholar.google.com/citations?user=XVwCO_kAAAAJ), Speaker diarization, Ph.D. student of Zhejiang University & Westlake University, Intern at vivo
 - [Yujie Yang](https://scholar.google.com/citations?user=VP-10UEAAAAJ), Speech enhancement, Ph.D. student of Zhejiang University & Westlake University, Intern at Ant (蚂蚁星)
