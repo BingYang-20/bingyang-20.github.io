@@ -19,20 +19,26 @@ redirect_from:
 
 I am currently an Associate Researcher at Tianjin University, Tianjin, China. 
 Previously, I worked as an Assistant Researcher at Westlake University, Hangzhou, China.
-From 2022 to 2024, I was a Postdoctor at Westlake University, Hangzhou, China, working with Prof. Xiaofei Li. 
-I received the Ph.D. degree from Peking University, Beijing, China, in 2022, under the supervision of Prof. Hong Liu. 
+From 2022 to 2024, I was a Postdoctor at Westlake University, Hangzhou, China, working with Prof. [Xiaofei Li (李晓飞)](https://audio.westlake.edu.cn/). 
+I received the Ph.D. degree from Peking University, Beijing, China, in 2022, under the supervision of Prof. [Hong Liu (刘宏, 北京大学智能机器人开放实验室)](https://robotics.pkusz.edu.cn/). 
 <!-- I received the B.Eng. degree in automation from the University Of Science and Technology Beijing, Beijing, China, in 2015.  -->
 
 My research focuses on acoustic, audio, and speech signal processing, including but not limited to
-- Auditory perception and understanding 听觉感知与理解
+<!-- 
+- Audio perception and understanding 音频感知与理解
 - Sound source localization and tracking 声源定位和跟踪
 - Speech enhancement and separation 语音增强和分离
-- Robot audition 机器人听觉
+- Robot audition 机器人听觉 -->
+- Audio perception and understanding 音频感知与理解
+- Spatial audio perception and understanding 空间音频感知与理解
+- Audio representation learning and audio-language models 音频表征学习与音频语言模型
+- Robot audition and embodied auditory intelligence 机器人听觉与具身听觉智能
+- Speech enhancement, separation, and target speaker extraction 语音增强、分离与目标说话人提取
 
-📢📢📢 长期招收研究生！如果你对以上方向感兴趣，请联系bingyang@tju.edu.cn，并附上个人简历。
+📢📢📢 招收2027级硕士研究生！如果你有相关基础或者对以上方向感兴趣，欢迎联系bingyang@tju.edu.cn，并附上个人简历。
  
 # 🔥 News
-- *2026.09*: Joined Tianjin Key Laboratory of Cognitive Computing and Application, Tianjin University
+- *2026.09*: Joined Tianjin University & Tianjin Key Laboratory of Cognitive Computing and Application
 - *2026.09*: 🎉Three papers were accepted by IEEE SLT！ 
 - *2026.08*: 🎉One paper was accepted by IEEE SPL! 
 - *2025.05*: 🎉One paper was accepted by INTERSPEECH! 
@@ -120,7 +126,7 @@ My research focuses on acoustic, audio, and speech signal processing, including 
 
 # 👨‍🎓 Students
 **Co-supervised or collaborating closely**
-- [Yabo Wang](https://github.com/wangyabo123), Sound source Localization, Ph.D. student of Zhejiang University & Westlake University, Intern at ByteDance (字节跳动Seed)
+- [Yabo Wang](https://github.com/wangyabo123), Sound source Localization, Ph.D. graduate of Zhejiang University & Westlake University (2026), ByteDance (字节跳动Seed)
 - [Pengyu Wang](https://pengyvwang.github.io/), Speech enhancement, Ph.D. graduate of Zhejiang University & Westlake University (2026), Tencent (腾讯青云计划)
-- [Di Liang](https://scholar.google.com/citations?user=XVwCO_kAAAAJ), Speaker diarization, Ph.D. student of Zhejiang University & Westlake University, Intern at vivo
+- [Di Liang](https://scholar.google.com/citations?user=XVwCO_kAAAAJ), Speaker diarization, Ph.D. graduate of Zhejiang University & Westlake University (2026), vivo
 - [Yujie Yang](https://scholar.google.com/citations?user=VP-10UEAAAAJ), Speech enhancement, Ph.D. student of Zhejiang University & Westlake University, Intern at Ant (蚂蚁星)
