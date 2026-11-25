@@ -19,8 +19,8 @@ redirect_from:
 
 I am currently an Associate Researcher at Tianjin University, Tianjin, China. 
 Previously, I worked as an Assistant Researcher at Westlake University, Hangzhou, China.
-From 2022 to 2024, I was a Postdoctor at Westlake University, Hangzhou, China, working with Prof. [Xiaofei Li (李晓飞)](https://audio.westlake.edu.cn/). 
-I received the Ph.D. degree from Peking University, Beijing, China, in 2022, under the supervision of Prof. [Hong Liu (刘宏, 北京大学智能机器人开放实验室)](https://robotics.pkusz.edu.cn/). 
+From 2022 to 2024, I was a Postdoctor at Westlake University, Hangzhou, China, working with Prof. Xiaofei Li ([李晓飞](https://audio.westlake.edu.cn/)). 
+I received the Ph.D. degree from Peking University, Beijing, China, in 2022, under the supervision of Prof. Hong Liu ([刘宏, 北京大学智能机器人开放实验室](https://robotics.pkusz.edu.cn/)). 
 <!-- I received the B.Eng. degree in automation from the University Of Science and Technology Beijing, Beijing, China, in 2015.  -->
 
 My research fsocuses on acoustic, audio, and speech signal processing, including but not limited to
@@ -30,7 +30,7 @@ My research fsocuses on acoustic, audio, and speech signal processing, including
 - Speech enhancement and separation 语音增强与分离
 - Sound source localization and tracking 声源定位与跟踪
 
-📢📢📢 招收2027级硕士研究生！如果你有相关基础或者对以上方向感兴趣，欢迎联系bingyang@tju.edu.cn，并附上个人简历。
+📢📢📢 招收2027级硕士研究生！如果你有相关基础或者对以上方向感兴趣，欢迎发送个人简历至bingyang@tju.edu.cn。
  
 # 🔥 News
 - *2026.09*: Joined Tianjin University & Tianjin Key Laboratory of Cognitive Computing and Application
